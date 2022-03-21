@@ -1,0 +1,12 @@
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache

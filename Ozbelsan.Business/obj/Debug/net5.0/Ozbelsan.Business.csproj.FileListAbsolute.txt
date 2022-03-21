@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\Ozbelsan.Business.deps.json
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\Ozbelsan.Business.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\ref\Ozbelsan.Business.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\Ozbelsan.Business.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\Ozbelsan.DAL.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\Ozbelsan.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\ref\Ozbelsan.Business.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.Business\obj\Debug\net5.0\Ozbelsan.Business.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\Ozbelsan.DAL.deps.json
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\Ozbelsan.DAL.runtimeconfig.json
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\Ozbelsan.DAL.runtimeconfig.dev.json
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\Ozbelsan.DAL.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\ref\Ozbelsan.DAL.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\Ozbelsan.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\ref\Ozbelsan.DAL.dll
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Ozbelsan\Ozbelsan.DAL\obj\Debug\net5.0\Ozbelsan.DAL.genruntimeconfig.cache
